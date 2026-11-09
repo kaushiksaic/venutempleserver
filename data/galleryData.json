@@ -1,0 +1,37 @@
+[
+  {
+    "year": "2026",
+    "festivals": [
+      {
+        "name": "Dhanurmasam",
+        "slug": "dhanurmasam",
+        "images": ["1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "5.jpeg", "6.jpeg", "7.jpeg", "8.jpeg", "9.jpeg", "10.jpeg", "12.jpeg", "16.jpeg", "17.jpeg"]
+      },
+      {
+        "name": "Visit by Veda Vidyaarthis studying at Srirangam Srimad Andavan Ashramam at Vrindavan, UP",
+        "slug": "VedaVidyaarthisVisit",
+        "images": ["1.jpeg", "2.jpeg", "3.jpeg"]
+      }
+    ]
+  },
+  {
+    "year": "2025",
+    "festivals": [
+      {
+        "name": "Dhanurmasam",
+        "slug": "dhanurmasam",
+        "images": ["1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg"]
+      }
+    ]
+  },
+  {
+    "year": "2024",
+    "festivals": [
+      {
+        "name": "Dhanurmasam",
+        "slug": "dhanurmasam",
+        "images": ["1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "5.jpeg", "6.jpeg", "7.jpeg", "8.jpeg"]
+      }
+    ]
+  }
+]

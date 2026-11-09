@@ -1,0 +1,23 @@
+{
+  "name": "venutemple-server",
+  "version": "1.0.0",
+  "description": "Express API for Sri Venugopala Swamy Temple CMS",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "db:init": "node src/scripts/initDb.js",
+    "import:gallery": "node src/scripts/importStaticGallery.js",
+    "notify:today": "node src/scripts/sendTodaysFestivals.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "expo-server-sdk": "^3.15.0",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.2.0",
+    "pg": "^8.13.0"
+  }
+}
